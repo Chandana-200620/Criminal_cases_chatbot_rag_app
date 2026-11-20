@@ -87,7 +87,7 @@ def build_vectors(
 
 # ---------------- LOAD MULTIPLE PDFs ----------------
 
-def load_base(pdf_path="criminal_case_docs"):
+def load_base(pdf_path="datafiles_docs"):
 
     chunks = []
 
